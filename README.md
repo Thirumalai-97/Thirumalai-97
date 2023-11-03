@@ -16,7 +16,8 @@
 - 💬 Ask me about **Quantum and Computer science**
 
 - 📫 How to reach me **thirumalai11049761@gmail.com**
-<a href="mailto: thirumalai11049761@gmail.com"> Mail me </a>
+
+[Contact Us](mailto:thirumalai11049761@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
