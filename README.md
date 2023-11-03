@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/m-thirumalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-thirumalai" height="30" width="40" /></a>
 <a href="https://kaggle.com/thirumalai m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thirumalai m" height="30" width="40" /></a>
-<a href="https://instagram.com/thiru_malai_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiru_malai_m" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thiru_malai_m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiru_malai_m" height="30" width="40" /></a>
 <a href="https://medium.com/@thirumalai11049761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thirumalai11049761" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thiru_malai_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thiru_malai_m" height="30" width="40" /></a>
 </p>
