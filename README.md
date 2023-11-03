@@ -16,11 +16,10 @@
 - 💬 Ask me about **Quantum and Computer science**
 
 - 📫 How to reach me **thirumalai11049761@gmail.com**
-- 📫 How to reach me <a href="mailto: thirumalai11049761@gmail.com " </a>
+<a href="mailto: thirumalai11049761@gmail.com"> Mail me </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto: thirumalai11049761@gmail.com "  target="blank" Mail me </a>
 <a href="https://linkedin.com/in/m-thirumalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-thirumalai" height="30" width="40" /></a>
 <a href="https://kaggle.com/thirumalai m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thirumalai m" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thiru_malai_m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiru_malai_m" height="30" width="40" /></a>
