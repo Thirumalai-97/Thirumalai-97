@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thirumalai M</h1>
-<h3 align="center">My area of interest were Software development, Classical Machine Learning and Quantum Machine Learning</h3>
+<h3 align="center">My area of interest lies in Quantum - Machine learning, Error correction and Cryptography </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirumalai-97&label=Profile%20views&color=0e75b6&style=flat" alt="thirumalai-97" /> </p>
 
