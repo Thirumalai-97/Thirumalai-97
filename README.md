@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Quantum Convulutional Neural Network**
+- 🔭 My recent project  **Quantum Convulutional Neural Network**[https://github.com/Thirumalai-97/FML-project-IITJ]
 
 - 🌱 I’m currently learning **Quantum Machine Learning**
 
