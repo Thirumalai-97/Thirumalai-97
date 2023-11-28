@@ -5,9 +5,9 @@
 
 
 
-- 🔭 My recent project  **Quantum Convulutional Neural Network** [here](https://github.com/Thirumalai-97/FML-project-IITJ) 
+- 🔭 My recent project is on **Quantum Convulutional Neural Network** [here](https://github.com/Thirumalai-97/FML-project-IITJ) 
 
-- 🌱 I’m currently learning **Quantum Machine Learning**
+- 🌱 I’m currently learning **Quantum Machine Learning and Cryptography**
 
 - 👯 I’m looking to collaborate on **ML and QML**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Quantum and Computer science**
 
-- 📫 How to reach me-> [Send a Mail](mailto:thirumalai11049761@gmail.com)
+- 📫 How to reach me-> [Send a Mail](mailto:thirumalai11049761@gmail.com) 
 
 
 
