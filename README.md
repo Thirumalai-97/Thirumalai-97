@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ML and QML**
 
-- 🤝 I’m looking for help with **Quantum Machine Learning**
+- 🤝 I’m looking for help with **Quantum Machine Learning and Quantum Cryptography**
 
 - 💬 Ask me about **Quantum and Computer science**
 
