@@ -5,7 +5,7 @@
 
 
 
-- 🔭 My recent project  **Quantum Convulutional Neural Network** <a href="https://github.com/Thirumalai-97/FML-project-IITJ" target="blank" Click here>
+- 🔭 My recent project  **Quantum Convulutional Neural Network** [here](https://github.com/Thirumalai-97/FML-project-IITJ) 
 
 - 🌱 I’m currently learning **Quantum Machine Learning**
 
