@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing my master's in Quantum Technologies, Specializing in Quantum computing.<br>I’m currently learning Quantum Machine Learning and Quantum Cryptography<br>I’m looking to collaborate on ML,QML and cryptography<br>I’m looking for help with Quantum Machine Learning and Quantum Cryptography<br>Ask me about Quantum and Computer science
+I'm currently pursuing my master's in Quantum Technologies, Specializing in Quantum computing at Indian Institute of Technology, Jodhpur.<br>I’m currently learning Quantum Machine Learning and Quantum Cryptography<br>I’m looking to collaborate on ML,QML and cryptography<br>I’m looking for help with Quantum Machine Learning and Quantum Cryptography<br>Ask me about Quantum and Computer science
 
 
 ## 🌐 Socials:
