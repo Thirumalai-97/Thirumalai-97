@@ -4,17 +4,14 @@ I'm currently pursuing my master's in Quantum Technologies, Specializing in Quan
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Wix-%0C6EFC.svg?logo=wix&logoColor=white)](https://thirumalai-97.github.io/portfolio/) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FYXnSzSG)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiru_malai_m)  -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-thirumalai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Thiru's_Portfolio-green)](https://thirumalai-97.github.io/portfolio/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FYXnSzSG) [![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-%FFDD00.svg?logo=buymeacoffee&logoColor=white)](https://thirumalai11049761.wixsite.com/quantum-mania) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-thirumalai)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thirumalai11049761)  -->
-
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiru_malai_m)  -->
 <!-- [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thirumalai11049761) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thiru-Malai-121) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/4a2d5b023b3f422)  -->
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thirumalai.m)  -->
-[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-%FFDD00.svg?logo=buymeacoffee&logoColor=white)](https://thirumalai11049761.wixsite.com/quantum-mania) 
+
 
 # 💻 Tech Stack:
 <p align="left"> <a href="https://qiskit.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-5q-sm3skVUUkXufUO8dgL7c3BMU5aWvMyBRD-M3roB-nC7EzP5rZfBjUpJijnig2WI&usqp=CAU" alt="qiskit" width="140" height="80"/> </a> <a href="https://pennylane.ai/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/media/FYmCwpqWIAA_EUU.jpg:large" alt="pennylane" width="140" height="80"/> </a> <a href="https://quantumai.google/cirq" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/114306758/2566b800-6601-11e9-9f2d-36d3354da949" alt="cirq" width="80" height="40"/> </a>
