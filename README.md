@@ -1,7 +1,8 @@
 # 💫 About Me:
-My name is Thirumalai [pronounce it](https://www.name-coach.com/thirumalai-m)  
+My name is Thirumalai [pronounce it](https://www.name-coach.com/thirumalai-m)  <br>
+Master Student at IIT Jodhpur <br>
 
-I have been fascinated by science, technology, and research since my childhood, particularly in interdisciplinary fields. Growing up, I focussed on math and science, leading to a degree in Electrical and Electronics Engineering. My projects during undergrad were in wireless power transmission and power factor improvement. Beyond academics, I was a mime artist, part of a friend’s startup, and served as an NCC cadet, through that I have developed strong interpersonal skills.<br>
+I have been fascinated by science, technology, and research since my childhood, particularly in interdisciplinary fields. Growing up, I focussed on math and science, leading to a degree in Electrical and Electronics Engineering. My projects during undergrad were in wireless power transmission and power factor improvement. Beyond academics, I was a mime artist, part of a friend’s startup, and served as an NCC cadet, through that I have developed strong interpersonal skills.<br><br>
 After exploring various career paths, I have joined Amazon, eventually promoted as Automation Analyst. Inspired by Amazon’s leadership principles, and discovered a passion for computer science and cleared the GATE exam in CSE. However, quantum computing emerged as the perfect career choice, leading to a master’s in Quantum Technologies at IIT Jodhpur. over the year I have completed core courses and specialization in quantum computing, participated in global quantum challenges, presented research at IEEE CONECCT, and mentored 5 interns in QWorld QInternship and currently acting as Secretary of the quantum computing club at IIT Jodhpur. Currently working on quantum machine learning, for my thesis and also learning quantum inspired optimization.
 
 ## 🌐 Socials:
