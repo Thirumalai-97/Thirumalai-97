@@ -1,9 +1,17 @@
 # 💫 About Me:
-My name is Thirumalai [pronounce it](https://www.name-coach.com/thirumalai-m)  <br>
-Master Student at IIT Jodhpur <br>
+## Master Student at IIT Jodhpur <br>
 
-I have been fascinated by science, technology, and research since my childhood, particularly in interdisciplinary fields. Growing up, I focussed on math and science, leading to a degree in Electrical and Electronics Engineering. My projects during undergrad were in wireless power transmission and power factor improvement. Beyond academics, I was a mime artist, part of a friend’s startup, and served as an NCC cadet, through that I have developed strong interpersonal skills.<br><br>
-After exploring various career paths, I have joined Amazon, eventually promoted as Automation Analyst. Inspired by Amazon’s leadership principles, and discovered a passion for computer science and cleared the GATE exam in CSE. However, quantum computing emerged as the perfect career choice, leading to a master’s in Quantum Technologies at IIT Jodhpur. over the year I have completed core courses and specialization in quantum computing, participated in global quantum challenges, presented research at IEEE CONECCT, and mentored 5 interns in QWorld QInternship and currently acting as Secretary of the quantum computing club at IIT Jodhpur. Currently working on quantum machine learning, for my thesis and also learning quantum inspired optimization.
+My name is Thirumalai [pronounce it](https://www.name-coach.com/thirumalai-m)  <br>
+
+
+Since childhood, I’ve been driven by curiosity and a passion for learning across various disciplines. Rather than focusing on a single domain, I thrive when exploring diverse topics. My storytelling abilities seem to come naturally, enriching my communication.
+
+I completed my schooling with excellence and pursued a Bachelor’s in Electrical and Electronics Engineering. During my undergraduate studies, I found my passion in power systems and electrical machines, more so than in electronics or micro-processors. Beyond academics MIME and the National Cadet Corps (NCC) played a pivotal role in shaping my university experience, NCC has sharpened all my interpersonal abilities, which continue to benefit me to this day. I also gained early professional exposure by working for a friend’s startup.
+
+After a year of exploring career opportunities across outsourcing, defense, my core field, and a startup, I began my journey at Amazon in 2019. Within two years, I was promoted to Automation Analyst. During my tenure at Amazon my professional and leadership skills has improved by adopting many of its leadership principles. In 2023, I decided to pivot toward academia, clearing the GATE exam (CSE) and securing admission to the M.Tech program in Quantum Technologies at IIT Jodhpur. This move feels like a natural progression as my multidisciplinary background perfectly aligns with the cutting-edge field of Quantum Technology, which I now actively engaged both academically at IIT Jodhpur and as part of the global Quantum Technology community.
+
+On a personal note, I recently took up squash and am also a fingerstyle guitarist. While I enjoy movies and occasionally dive into books. I am an avid fan of Batman, Itachi, and Naruto.
+Please explore this site to know more about me.
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Thiru's_Portfolio-green)](https://thirumalai-97.github.io/portfolio/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FYXnSzSG) [![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-%FFDD00.svg?logo=buymeacoffee&logoColor=white)](https://thirumalai11049761.wixsite.com/quantum-mania) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-thirumalai)
