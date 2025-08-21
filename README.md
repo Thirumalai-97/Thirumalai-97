@@ -1,16 +1,12 @@
 # 💫 About Me:
-## Master Student at IIT Jodhpur <br>
+## Quantum Machine Learning Researcher at Centre for Development of Advanced Computing (C-DAC), New Delhi, India <br>
 
 My name is Thirumalai [pronounce it](https://www.name-coach.com/thirumalai-m)  <br>
 
 
-Since childhood, I’ve been driven by curiosity and a passion for learning across various disciplines. Rather than focusing on a single domain, I thrive when exploring diverse topics. My storytelling abilities seem to come naturally, enriching my communication.
 
-I completed my schooling with excellence and pursued a Bachelor’s in Electrical and Electronics Engineering. During my undergraduate studies, I found my passion in power systems and electrical machines, more so than in electronics or micro-processors. Beyond academics MIME and the National Cadet Corps (NCC) played a pivotal role in shaping my university experience, NCC has sharpened all my interpersonal abilities, which continue to benefit me to this day. I also gained early professional exposure by working for a friend’s startup.
 
-After a year of exploring career opportunities across outsourcing, defense, my core field, and a startup, I began my journey at Amazon in 2019. Within two years, I was promoted to Automation Analyst. During my tenure at Amazon my professional and leadership skills has improved by adopting many of its leadership principles. In 2023, I decided to pivot toward academia, clearing the GATE exam (CSE) and securing admission to the M.Tech program in Quantum Technologies at IIT Jodhpur. This move feels like a natural progression as my multidisciplinary background perfectly aligns with the cutting-edge field of Quantum Technology, which I now actively engaged both academically at IIT Jodhpur and as part of the global Quantum Technology community.
 
-On a personal note, I recently took up squash and am also a fingerstyle guitarist. While I enjoy movies and occasionally dive into books. I am an avid fan of Batman, Itachi, and Naruto.
 Please explore this site to know more about me.
 
 ## 🌐 Socials:
