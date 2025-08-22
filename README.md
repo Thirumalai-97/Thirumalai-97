@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Quantum Machine Learning Researcher at Centre for Development of Advanced Computing (C-DAC), New Delhi, India <br>
 
-My name is Thirumalai( [pronounce it](https://www.name-coach.com/thirumalai-m)) a passionate Quantum Computing and AI/ML enthusiast with a strong interest in solving complex optimization problems and building impactful solutions. I enjoy working at the intersection of quantum algorithms, machine learning, and computational research, constantly exploring cutting-edge technologies to stay ahead in this rapidly evolving field. <br>
+My name is Thirumalai ([pronounce it](https://www.name-coach.com/thirumalai-m)) a passionate Quantum Computing and AI/ML enthusiast with a strong interest in solving complex optimization problems and building impactful solutions. I enjoy working at the intersection of quantum algorithms, machine learning, and computational research, constantly exploring cutting-edge technologies to stay ahead in this rapidly evolving field. <br>
 
 I have completed my Mastes in Quantum Technologies at Indian Institute of Technology, Jodhpur, India, cleared GATE CSE 2023 and I have done my Bachelor's in Electrical and Electronics Engineering, from KCG College of Technology, Chennai. <br>
 
