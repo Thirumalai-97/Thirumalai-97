@@ -7,8 +7,8 @@ I have completed my Master's in Quantum Technologies at Indian Institute of Tech
 
 I’ve worked on projects involving quantum-inspired optimization, QAOA implementations, and vehicle routing optimization using tools like Qiskit and D-Wave. Currently, I’m expanding my expertise in AI/ML, quantum machine learning (QML), and high-performance computing while preparing for a Ph.D. to contribute to advancements in quantum technologies and real-world applications
 
-Please explore this site to know more about me.
-
+Please explore this site to know more about me. 
+ 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Thiru's_Portfolio-green)](https://thirumalai-97.github.io/portfolio/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FYXnSzSG) [![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-%FFDD00.svg?logo=buymeacoffee&logoColor=white)](https://thirumalai11049761.wixsite.com/quantum-mania) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-thirumalai)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thirumalai11049761)  -->
