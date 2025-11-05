@@ -1,11 +1,10 @@
 # 💫 About Me:
-## Quantum Machine Learning Researcher at Centre for Development of Advanced Computing (C-DAC), New Delhi, India <br>
+## Quantum Engineer at QpiAI, Bangalore, India <br>
 
-My name is Thirumalai ([pronounce it](https://www.name-coach.com/thirumalai-m)) a passionate Quantum Computing and AI/ML enthusiast with a strong interest in solving complex optimization problems and building impactful solutions. I enjoy working at the intersection of quantum algorithms, machine learning, and computational research, constantly exploring cutting-edge technologies to stay ahead in this rapidly evolving field. <br>
+My name is Thirumalai Manimaran([pronounce it](https://www.name-coach.com/thirumalai-m)) a passionate Quantum Computing and AI/ML enthusiast with a strong interest in solving complex optimization problems and building impactful solutions. I enjoy working at the intersection of quantum algorithms, machine learning, and computational research, constantly exploring cutting-edge technologies to stay ahead in this rapidly evolving field. <br>
 
-I have completed my Master's in Quantum Technologies at Indian Institute of Technology, Jodhpur, India, cleared GATE CSE 2023 and I have done my Bachelor's in Electrical and Electronics Engineering, from KCG College of Technology, Chennai. <br>
-
-I’ve worked on projects involving quantum-inspired optimization, QAOA implementations, and vehicle routing optimization using tools like Qiskit and D-Wave. Currently, I’m expanding my expertise in AI/ML, quantum machine learning (QML), and high-performance computing while preparing for a Ph.D. to contribute to advancements in quantum technologies and real-world applications
+I have completed my Master's in Quantum Technologies at Indian Institute of Technology, Jodhpur, India, cleared GATE CSE 2023 <br>I have done my Bachelor's in Electrical and Electronics Engineering, from KCG College of Technology, Chennai. <br> Prior to this I have worked at Amazon, Chennai for four years as Automation Analyst <br>
+Currently I'm working on Quantum Algorithms Research and Benchmarking at QpiAI. 
 
 Please explore this site to know more about me. 
  
