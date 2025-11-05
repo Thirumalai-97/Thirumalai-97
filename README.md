@@ -1,7 +1,7 @@
 # 💫 About Me:
-## Quantum Engineer at QpiAI, Bangalore, India <br>
+## Thirumalai Manimaran Quantum Engineer at QpiAI, Bangalore, India <br>
 
-My name is Thirumalai Manimaran([pronounce it](https://www.name-coach.com/thirumalai-m)) a passionate Quantum Computing and AI/ML enthusiast with a strong interest in solving complex optimization problems and building impactful solutions. I enjoy working at the intersection of quantum algorithms, machine learning, and computational research, constantly exploring cutting-edge technologies to stay ahead in this rapidly evolving field. <br>
+Thirumalai ([pronounce it](https://www.name-coach.com/thirumalai-m)) - passionate Quantum Computing and AI/ML enthusiast with a strong interest in solving complex optimization problems and building impactful solutions. I enjoy working at the intersection of quantum algorithms, machine learning, and computational research, constantly exploring cutting-edge technologies to stay ahead in this rapidly evolving field. <br>
 
 I have completed my Master's in Quantum Technologies at Indian Institute of Technology, Jodhpur, India, cleared GATE CSE 2023 <br>I have done my Bachelor's in Electrical and Electronics Engineering, from KCG College of Technology, Chennai. <br> Prior to this I have worked at Amazon, Chennai for four years as Automation Analyst <br>
 Currently I'm working on Quantum Algorithms Research and Benchmarking at QpiAI. 
