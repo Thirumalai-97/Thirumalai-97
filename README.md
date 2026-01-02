@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Thirumalai-97's GitHub Banner](https://raw.githubusercontent.com/Thirumalai-97/Thirumalai-97/main/banner.png)
+![Thirumalai-97's GitHub Banner](https://github.com/Thirumalai-97/Thirumalai-97/blob/main/Thirumalai-97-readme-banner.png)
 ## Thirumalai Manimaran Quantum Engineer at QpiAI, Bangalore, India <br>
 
 Thirumalai ([pronounce it](https://www.name-coach.com/thirumalai-m)) - passionate Quantum Computing and AI/ML enthusiast with a strong interest in solving complex optimization problems and building impactful solutions. I enjoy working at the intersection of quantum algorithms, machine learning, and computational research, constantly exploring cutting-edge technologies to stay ahead in this rapidly evolving field. <br>
